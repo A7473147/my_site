@@ -1,0 +1,64 @@
+body{
+  margin:0;
+  font-family: 'Merriweather', serif;
+  background-color: #cbeaed;
+}
+.myDiv{
+  background-color: #cffffe;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  position:relative;
+}
+h1{
+  margin-top:10px;
+  color:#87CEFA;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  margin-bottom: 10px;
+
+}
+.intro{
+  margin-top: 0;
+}
+.cloudup{
+  margin-top:30px;
+
+  margin-left:400px
+}
+.cloudDown{
+margin-top:40px;
+position:absolute;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+.skills{
+  text-align: center;
+
+}
+.skill-row{
+  text-align: center;
+  border-color: white;
+}
+.abcd{
+  margin-top: 20px;
+  text-align: center;
+
+}
+.profilePic{
+  border-radius: 70%;
+}
+.bottom-container{
+  text-align: center;
+}
+.contact-me{
+  text-align: center;
+
+}
